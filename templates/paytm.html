@@ -1,0 +1,7 @@
+<form method="post" action="https://secure.paytm.in/theia/processTransaction" name="paytmForm">
+    {% csrf_token %}
+    {% for key, value in param_dict.items %}
+        <input type="hidden" name="{{ key }}" value="{{ value }}">
+    {% endfor %}
+    <button type="submit">Pay Now</button>
+</form>
