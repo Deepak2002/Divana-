@@ -27,50 +27,6 @@ Before you begin, ensure you have the following installed on your machine:
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 
-### Django eCommerce Platform
-
-This is a fully functional eCommerce web application built using Django, allowing users to browse products, manage a shopping cart, and complete purchases.
-
-## Features
-- Product browsing with categories
-- Shopping cart functionality
-- User authentication (registration and login)
-- Responsive design using Bootstrap
-- Admin panel for product management (if implemented)
-
-## Technologies Used
-- **Backend**: Django
-- **Database**: SQLite (or PostgreSQL)
-- **Frontend**: HTML, CSS, JavaScript
-
-## Prerequisites
-Before you begin, ensure you have the following installed on your machine:
-- [Python](https://www.python.org/downloads/) (3.6 or later)
-- [pip](https://pip.pypa.io/en/stable/installation/)
-- Django (installable via pip)
-
-## Installation Steps
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
-
-# Django eCommerce Platform
-
-This is a fully functional eCommerce web application built using Django, allowing users to browse products, manage a shopping cart, and complete purchases.
-
-## Features
-- Product browsing with categories
-- Shopping cart functionality
-- User authentication (registration and login)
-- Responsive design using Bootstrap
-- Admin panel for product management (if implemented)
-
-## Technologies Used
-- **Backend**: Django
-- **Database**: SQLite (or PostgreSQL)
-- **Frontend**: HTML, CSS, JavaScript
-
 ## Screenshots
 ![Home Page](screenshots/home.png)
 ![Product Page](screenshots/product.png)
